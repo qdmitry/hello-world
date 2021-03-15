@@ -1,3 +1,7 @@
 # hello-world
 My first repository on GitHub.
-My favorite fruit is orange.
+My favorite fruit is orange 🍊.
+
+```
+Nice!
+```
